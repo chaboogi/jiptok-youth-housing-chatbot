@@ -1,0 +1,6 @@
+{
+  "name": "집톡 - 청년 주거지원 정책 맞춤 안내",
+  "description": "청년 주거지원 정책 맞춤 안내 및 학습형 AI 챗봇 집톡 3.0",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
